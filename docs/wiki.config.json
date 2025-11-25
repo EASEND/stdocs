@@ -1,0 +1,28 @@
+{
+    "categories": [
+      {
+        "title": "Начало работы",
+        "items": [
+          "README",
+          "getting-started",
+          "installation"
+        ]
+      },
+      {
+        "title": "Руководства",
+        "items": [
+          "guides/basics",
+          "guides/advanced",
+          "guides/troubleshooting"
+        ]
+      },
+      {
+        "title": "API",
+        "items": [
+          "api/overview",
+          "api/authentication",
+          "api/endpoints"
+        ]
+      }
+    ]
+  }
